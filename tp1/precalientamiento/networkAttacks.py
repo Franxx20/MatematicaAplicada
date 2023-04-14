@@ -36,6 +36,7 @@ print(readline())
 request = {
     "buy": "flag"
 }
+
 json_send(request)
 
 response = json_recv()
