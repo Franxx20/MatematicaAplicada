@@ -1,0 +1,7 @@
+from Crypto.PublicKey import RSA
+
+
+module = RSA.importKey(open("./2048b-rsa-example-cert.der",mode='rb').read()).__module__
+moduleInt = float(module)
+print(f"module{module}")
+

@@ -20,6 +20,6 @@ def extended_gcd(a,b):
 
 
 
-extended_gcd(26513,32321)
+extended_gcd(3,13)
 
     
