@@ -1,4 +1,4 @@
-'''
+"""
 Looking again at Fermat's little theorem...
 if p is prime, for every integer a:
         pow(a, p) = a mod p
@@ -14,7 +14,7 @@ So finally we have:
         a^(p-2) = a^-1 (mod p)
 So, doing a^(p-2) and then (mod p) we can achieve
 our result
-'''
+"""
 a = 3
 p = 13
-print(pow(a,p-2) % p)
+print(pow(a, p - 2) % p)

@@ -23,5 +23,5 @@ matrix = [
     [114, 105, 120, 125],
 ]
 
-print(bytes2matrix(matrix))
-print(matrix2bytes(matrix))
+# print(bytes2matrix(matrix))
+# print(matrix2bytes(matrix))
