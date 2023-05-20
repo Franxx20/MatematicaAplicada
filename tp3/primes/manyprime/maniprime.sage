@@ -8,7 +8,7 @@ lista = ecm.factor(n)
 print(f"lista {lista}")
 phi =1
 print(f"tamanio de la lista {len(lista)}")
-for elem in lista:
+for elem  in lista:
    phi*=(elem - 1)
 
 
