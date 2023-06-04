@@ -1,0 +1,1 @@
+##Buscamos en internet cual era el nombre que se utilizaba como header para enviar por HTTP un JWT.
